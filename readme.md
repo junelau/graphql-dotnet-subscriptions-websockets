@@ -11,7 +11,7 @@ This is a chat style sample of multiple rooms using GraphQL's subscription.
 A WebSocket extension receiver is added in `Startup.cs`  
 https://github.com/junelau/graphql-dotnet-subscriptions-websockets/blob/e94c2a21b517e75899230954b4fba253761e4fad/Startup.cs#L58
 
-Implemented classes, along with an example GraphQL schema are located in `GraphQL.Subscriptions.Example`.
+Implemented classes, along with an example GraphQL schema are located in __GraphQL.Subscriptions.Example__.
 
 ## Credits
 
